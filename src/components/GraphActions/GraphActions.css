@@ -1,0 +1,9 @@
+.button-wrapper {
+    margin: 8px 8px 8px 8px;
+    text-align: center;
+}
+
+.button-wrapper-button {
+    margin-left: 8px;
+    font-size: 16px;
+}
